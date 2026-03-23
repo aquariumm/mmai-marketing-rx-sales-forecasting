@@ -32,6 +32,8 @@ The goal of this project is to evaluate how marketing investments influence sale
 
 ## Core Business Questions
 
+[//]: # (The business questions are good, but it might also be worth incorporating some technical questions. For example, we could clarify why the data is split 80:20, or why it's treated as a time series that training on older data and testing on newer data. It would also be helpful to explain which metrics are used to compare parametric and machine learning models, and why those metrics are important for this study. For the final model, we might also discuss the key trade-offs, such as accuracy, interpretability, and complexity of the estimation process, and how they influence model selection. They may already be planned in later sections once we get there, but I wanted to flag it in case, the report should have sufficient technical detail as well.)
+
 This analysis is structured around eight key strategic questions:
 
 1. Which brands dominate portfolio revenue, and how concentrated is the portfolio?
